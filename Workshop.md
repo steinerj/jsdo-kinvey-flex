@@ -55,8 +55,11 @@ As a Sports Shop 2000 customer I want to</p>
 </ol>
 <p>For reference: <a href="https://devcenter.kinvey.com/nativescript/guides/studio-getting-started">https://devcenter.kinvey.com/nativescript/guides/studio-getting-started</a></p>
 <h2 id="hands-on-3---use-an-external-data-source">Hands-on 3 - Use an External Data Source</h2>
-<p><em><strong>Connect to an OpenEdge data source</strong></em></p>
-<p>Three options:</p>
+<p><em><strong>Connect to an OpenEdge data source</strong></em><br>
+For learning how to set up JSDO capable OpenEdge Data Object Services, please follow these tutorials:<br>
+<a href="https://www.youtube.com/watch?v=Nk9wrmYUFPA">https://www.youtube.com/watch?v=Nk9wrmYUFPA</a></p>
+<p><a href="https://www.progress.com/services/education/openedge/creating-openedge-data-object-services">https://www.progress.com/services/education/openedge/creating-openedge-data-object-services</a></p>
+<p>There are three options to integrate OpenEdge in Kinvey:</p>
 <ul>
 <li>
 <p>Connect to OE using RapidData for Progress:<br>
