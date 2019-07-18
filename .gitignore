@@ -1,0 +1,5 @@
+**/node_modules
+**/.kinvey
+**/output.log
+**/.DS_Store
+.vscode

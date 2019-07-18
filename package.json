@@ -1,0 +1,19 @@
+{
+  "name": "oe-flex-connector",
+  "version": "2.0.1",
+  "description": "A flex data handler that uses the JSDO to get data from an OE Sports2k db",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon --exec npm start",
+    "deploy": "npm version --no-git-tag-version patch && kinvey flex deploy",
+    "status": "kinvey flex job && kinvey flex status"
+  },
+  "author": "Julian Steiner",
+  "license": "ISC",
+  "dependencies": {
+    "kinvey-flex-sdk": "^3.2.1",
+    "@progress/jsdo-core": "^6.0.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
