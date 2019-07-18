@@ -110,6 +110,8 @@ Catalog:<br>
 <li>In your app, swap the “items” store from internal to the newly created FlexData service</li>
 <li>Test in API Console and/or web/mobile app</li>
 </ol>
+<p>Learn more about Flex Services here:<br>
+<a href="https://www.progress.com/blogs/getting-started-with-kinvey-flexservices">https://www.progress.com/blogs/getting-started-with-kinvey-flexservices</a></p>
 <h3 id="rapiddata---datadirect">RapidData - DataDirect</h3>
 <ol>
 <li>Under <em>Services</em> - create a new RapidData for DataDirect in the scope of your app</li>
